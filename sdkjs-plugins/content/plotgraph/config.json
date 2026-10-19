@@ -1,7 +1,7 @@
 {
   "name": "PlotGraph",
   "guid": "asc.{709689da-b6a9-404b-9fdf-39a08ec3fa00}",
-  "version": "0.141.0",
+  "version": "0.142.0",
   "variations": [
     {
       "url": "index.html",
